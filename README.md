@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Benji
 - 👀 I’m interested in AI
-- 🌱 I’m currently learning Java, Python and Ruby
+- 🌱 I’m currently learning Java, Python, C, C++ and Ruby
 - 💞️ I’m looking to collaborate on nothing right now
 - 📫 How to reach me: the link on my profile
 

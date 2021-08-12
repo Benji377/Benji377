@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Benji
-- 👀 I’m interested in AI
+- 👀 I’m interested in AI, Robotics, Android development, Automation and Scripting
 - 🌱 I’m currently learning Java, Python, C, C++ and Ruby
 - 💞️ I’m looking to collaborate with you on my newest Project: SocyMusic
 - 📫 How to reach me: Instagram, Twitter, Youtube or Email

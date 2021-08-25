@@ -10,6 +10,7 @@
   - Space music: Send songs trough space
   - Alien detection system: Find aliens and communicate with them faster
   - Advanced to-do list: A creative and automatic to do list
+  - Automatic spam unsubscriber: Unsubscribes your email from a list of possible advertisement websites
   - and much more ;D
 
 <!---

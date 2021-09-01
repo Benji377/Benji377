@@ -12,6 +12,7 @@
   - Advanced to-do list: A creative and automatic to do list
   - Automatic spam unsubscriber: Unsubscribes your email from a list of possible advertisement websites
   - Linux based OS as an Android alternative -> Light and fast with only the most necessary apps and full end-user control
+  - ButtNetwork: A social network to connect to when you are on the toilet which works with peer to peer tecnology (no server in between)
   - and much more ;D
 
 <!---

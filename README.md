@@ -5,14 +5,8 @@
 - 📫 How to reach me: [Twitter](https://twitter.com/Benben377), [Youtube](https://www.youtube.com/channel/UCgkbKNjZCFy9EiToD5MK4Og) or [Email](mailto:demetzbenjamin@duck.com)
 - ⚜️ Bucketlist (Projects I want to create somewhere in the future):
   - Voice simulator: Simulate the voice you actually hear in your head (which is different from the one the others hear)
-  - Advanced file sorter: Automatically sort the files you put in a folder
   - Self-building robot: A robot capable of building a replica of himself if you give him the materials to do so
-  - Space music: Send songs trough space
-  - Alien detection system: Find aliens and communicate with them faster
-  - Advanced to-do list: A creative and automatic to do list
   - Automatic spam unsubscriber: Unsubscribes your email from a list of possible advertisement websites
-  - Linux based OS as an Android alternative -> Light and fast with only the most necessary apps and full end-user control
-  - ButtNetwork: A social network to connect to when you are on the toilet which works with peer to peer tecnology (no server in between)
   - and much more ;D
 
 <!---

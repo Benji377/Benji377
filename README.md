@@ -7,6 +7,7 @@
   - Voice simulator: Simulate the voice you actually hear in your head (which is different from the one the others hear)
   - Self-building robot: A robot capable of building a replica of himself if you give him the materials to do so
   - Automatic spam unsubscriber: Unsubscribes your email from a list of possible advertisement websites
+  - An official Windows package manager called Winoo
   - and much more ;D
 
 <!---

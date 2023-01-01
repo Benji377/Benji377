@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate with you on my newest Project: OpenMusic!
 - 📫 How to reach me: [Twitter](https://twitter.com/Benben377), [Youtube](https://www.youtube.com/channel/UCgkbKNjZCFy9EiToD5MK4Og) or [Email](mailto:demetzbenjamin@duck.com)
 - 🚧 Work In Progress:
-  - OpenMusic: Open source music offline music player
+  - OpenMusic: Open source offline music player
   - Raspirus: Antivirus USB scanner for Raspberry Pi
   - Home: Personal website in NextJS
   - CarbonCalculator: Calculate carbon emissions  

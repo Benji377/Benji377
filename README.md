@@ -58,6 +58,10 @@ I am a Full Stack Developer from Italy :it:.
 ---
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [A Guide to Deleting Your Data from Unused Websites](https://benji377.netlify.app/posts/delete-your-data/)
+- [Raspberry Pi Internet speed monitor](https://benji377.netlify.app/posts/raspberry-pi-internet-speed-monitor/)
+- [How to install Optifine for Minecraft](https://benji377.netlify.app/posts/how-to-install-optifine-for-minecraft/)
+- [OpenMusic - My first Open source project](https://benji377.netlify.app/posts/openmusic/)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- Extracted from https://www.sitepoint.com/github-profile-readme/ -->

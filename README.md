@@ -12,6 +12,9 @@
   </a>
 </div>
   <img src="https://komarev.com/ghpvc/?username=benji377&style=flat-square&color=blue" alt=""/>
+  <a href="https://saythanks.io/to/Benji377">
+    <img src="https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg" alt="Say Thanks"/>
+  </a>
   <h1>
   Hey There
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>

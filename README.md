@@ -52,12 +52,6 @@ I am a Full Stack Developer from Italy :it:.
 </div>
 
 ---
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Benji377&theme=transparent&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=benji377&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
----
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
 - [Automating GitHub Projects](https://benji377.netlify.app/posts/automating-github-projects/)

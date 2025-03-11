@@ -14,4 +14,4 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@1.8.5
         with:
           max_post_count: "4"
-          feed_list: "https://benji377.netlify.app/feed.rss"
+          feed_list: "https://dev.to/feed/benji377"

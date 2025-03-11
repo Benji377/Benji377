@@ -54,10 +54,7 @@ I am a Full Stack Developer from Italy :it:.
 ---
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
-- [Automating GitHub Projects](https://benji377.netlify.app/posts/automating-github-projects/)
-- [A Guide to Deleting Your Data from Unused Websites](https://benji377.netlify.app/posts/delete-your-data/)
-- [Raspberry Pi Internet speed monitor](https://benji377.netlify.app/posts/raspberry-pi-internet-speed-monitor/)
-- [How to install Optifine for Minecraft](https://benji377.netlify.app/posts/how-to-install-optifine-for-minecraft/)
+- [Grafana Speed Monitor: Setting Up an Internet Monitor with Raspberry Pi](https://dev.to/benji377/grafana-speed-monitor-setting-up-an-internet-monitor-with-raspberry-pi-50jk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- Extracted from https://www.sitepoint.com/github-profile-readme/ -->

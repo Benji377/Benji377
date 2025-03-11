@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="100"/>
   <div id="badges">
   <a href="https://benji377.netlify.app/">
-    <img src="https://img.shields.io/badge/My_Blog-green?style=for-the-badge&logo=netlify&logoColor=white" alt="Blog Badge"/>
+    <img src="https://img.shields.io/badge/dev.to-black?style=for-the-badge&logo=devdotto&logoColor=black&color=white" alt="DevTO Badge"/>
   </a>
   <a href="https://www.youtube.com/@benji_377">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>

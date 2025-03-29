@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="100"/>
   <div id="badges">
-  <a href="https://benji377.netlify.app/">
+  <a href="https://dev.to/benji377">
     <img src="https://img.shields.io/badge/dev.to-black?style=for-the-badge&logo=devdotto&logoColor=black&color=white" alt="DevTO Badge"/>
   </a>
   <a href="https://www.youtube.com/@benji_377">

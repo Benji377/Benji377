@@ -27,7 +27,7 @@ I am a Full Stack Developer from Italy :it:.
 - :telescope: I like constantly experimenting with new stuff
 - :seedling: Exploring Web Development with Nuxt3
 - :zap: In my free time, I write blogs and experiment with my own website
-- :rocket: Maintainer of the [Raspirus project](https://raspirus.deno.dev)
+- :rocket: Maintainer of the [Timety project](https://github.com/Benji377/Timety)
 ---
 
 ### :hammer_and_wrench: Languages and Tools :

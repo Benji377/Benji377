@@ -54,6 +54,7 @@ I am a Full Stack Developer from Italy :it:.
 ---
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [A Guide to Deleting Your Data from Unused Websites](https://dev.to/benji377/a-guide-to-deleting-your-data-from-unused-websites-293d)
 - [Tools to Automate GitHub Projects](https://dev.to/benji377/tools-to-automate-github-projects-2cbl)
 - [Grafana Speed Monitor: Setting Up an Internet Monitor with Raspberry Pi](https://dev.to/benji377/grafana-speed-monitor-setting-up-an-internet-monitor-with-raspberry-pi-50jk)
 <!-- BLOG-POST-LIST:END -->

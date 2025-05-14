@@ -18,7 +18,9 @@
 </h1>
 </div>
 <div align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="600" height="300"/>
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level-alternate&theme=github-dark&preferLogin=false">
+    <img  alt="Benji377's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Benji377?cardType=level-alternate&theme=github-dark&preferLogin=false" />  
+  </a>
 </div>
 
 ---

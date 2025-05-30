@@ -18,8 +18,11 @@
 </h1>
 </div>
 <div align="center">
-  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level-alternate&theme=github-dark&preferLogin=false">
-    <img  alt="Benji377's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Benji377?cardType=level-alternate&theme=github-dark&preferLogin=false" />  
+  <a href="https://dev.to/benji377">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=benji377&theme=catppuccin_mocha" />
+  </a>
+  <a href="https://dev.to/benji377">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=benji377&layout=compact&langs_count=8&theme=catppuccin_mocha&card_width=320" />
   </a>
 </div>
 

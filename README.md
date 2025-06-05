@@ -32,7 +32,7 @@ I am an Automation Engineer (DevOps) from Italy :it:.
 - :telescope: I like constantly experimenting with new stuff
 - :seedling: Exploring Golang and Rust
 - :zap: In my free time, I write blogs and experiment with new technologies
-- :rocket: Maintainer of [Timety](https://github.com/Benji377/Timety) and [Tooka](https://github.com/Benji377/tooka)
+- :rocket: Maintainer of [Tooka](https://github.com/Benji377/tooka) and [Timety](https://github.com/Benji377/Timety)
 ---
 
 ### :hammer_and_wrench: Languages and Tools :

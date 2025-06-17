@@ -56,6 +56,7 @@ I am an Automation Engineer (DevOps) from Italy :it:.
 ---
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Packaging and Distributing a Rust CLI for All Platforms - A Case Study with Tooka](https://dev.to/benji377/packaging-and-distributing-a-rust-cli-for-all-platforms-a-case-study-with-tooka-172)
 - [A Guide to Deleting Your Data from Unused Websites](https://dev.to/benji377/a-guide-to-deleting-your-data-from-unused-websites-293d)
 - [Tools to Automate GitHub Projects](https://dev.to/benji377/tools-to-automate-github-projects-2cbl)
 - [Grafana Speed Monitor: Setting Up an Internet Monitor with Raspberry Pi](https://dev.to/benji377/grafana-speed-monitor-setting-up-an-internet-monitor-with-raspberry-pi-50jk)

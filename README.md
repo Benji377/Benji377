@@ -4,8 +4,11 @@
   <a href="https://dev.to/benji377">
     <img src="https://img.shields.io/badge/dev.to-black?style=for-the-badge&logo=devdotto&logoColor=black&color=white" alt="DevTO Badge"/>
   </a>
-  <a href="https://www.youtube.com/@benji_377">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  <a href="https://gravatar.com/benji377">
+    <img src="https://img.shields.io/badge/Gravatar-blue?style=for-the-badge&logo=gravatar&logoColor=white" alt="Gravatar Badge"/>
+  </a>
+  <a href="mailto:demetzbenjamin@duck.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
 </div>
   <img src="https://komarev.com/ghpvc/?username=benji377&style=flat-square&color=blue" alt=""/>

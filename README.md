@@ -37,17 +37,17 @@
 </div>
 
 ---
-## :man_technologist: About Me :
+## :man_technologist: About Me:
 I am an Automation Engineer (DevOps) from Italy :it:.
-- :telescope: I love experimenting with new technologies
-- :seedling: Currently exploring Golang and Rust
-- :zap: In my free time, I blog and explore fresh ideas
-- :rocket: Maintainer of [Tooka](https://github.com/Benji377/tooka) and [Timety](https://github.com/Benji377/Timety)
+- I love experimenting with new technologies
+- Currently exploring Golang and Rust
+- In my free time, I blog and explore fresh ideas
+- Maintainer of [Tooka](https://github.com/Benji377/tooka) and [Timety](https://github.com/Benji377/Timety)
 ---
 
 ## 🔧 Languages and Tools
 
-### 💻 Programming Languages
+### Languages
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" title="Java" width="40" height="40"/>&nbsp;
@@ -60,43 +60,47 @@ I am an Automation Engineer (DevOps) from Italy :it:.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" title="Kotlin" width="40" height="40"/>
 </div>
 
-### 🌐 Web & Databases
+### Frameworks & Libraries
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" title="HTML5" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" title="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" title="TailwindCSS" width="40" height="40"/>&nbsp;        
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" title="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" title="TailwindCSS" width="40" height="40"/>&nbsp;    
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" title="TypeScript" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" title="Node.js" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" title="Typescript" width="40" height="40"/>&nbsp;/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/denojs/denojs-original.svg" title="Deno" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/denojs/denojs-original.svg" title="Deno" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tauri/tauri-original.svg" title="Tauri" width="40" height="40"/>
 </div>
 
-### ⚙️ DevOps & Tools
+### Tools
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="Git" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" title="Github Actions" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" title="Grafana" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grpc/grpc-original.svg" title="gRPC" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" title="GitHub Actions" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" title="Docker" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/podman/podman-original.svg" title="Podman" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" title="Grafana" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/splunk/splunk-original-wordmark.svg" title="Splunk" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" title="Docker" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grpc/grpc-original.svg" title="gRPC" width="40" height="40"/>
 </div>
 
-### 🎮 Game Engines & Runtimes
+### Others / Platforms & Infrastructure
 
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" title="Godot" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" title="Raspberry Pi" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" title="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" title="SQLite" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tauri/tauri-original.svg" title="Tauri" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/poetry/poetry-original.svg" title="Poetry" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/poetry/poetry-original.svg" title="Poetry" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" title="Godot" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" title="Raspberry Pi" width="40" height="40"/>
 </div>
 
-
 ---
-## :writing_hand: Blog Posts :
+
+## :writing_hand: Blog Posts:
+
+> *The following posts are automatically synced from my [dev.to/benji377](https://dev.to/benji377) profile.*
+
+
 <!-- BLOG-POST-LIST:START -->
 - [How to Build a Portable Offline Chat Server with a Raspberry Pi](https://dev.to/benji377/how-to-build-a-portable-offline-chat-server-with-a-raspberry-pi-156i)
 - [Packaging and Distributing a Rust CLI for All Platforms - A Case Study with Tooka](https://dev.to/benji377/packaging-and-distributing-a-rust-cli-for-all-platforms-a-case-study-with-tooka-172)
@@ -104,5 +108,3 @@ I am an Automation Engineer (DevOps) from Italy :it:.
 - [Tools to Automate GitHub Projects](https://dev.to/benji377/tools-to-automate-github-projects-2cbl)
 - [Grafana Speed Monitor: Setting Up an Internet Monitor with Raspberry Pi](https://dev.to/benji377/grafana-speed-monitor-setting-up-an-internet-monitor-with-raspberry-pi-50jk)
 <!-- BLOG-POST-LIST:END -->
-
-<!-- Extracted from https://www.sitepoint.com/github-profile-readme/ -->

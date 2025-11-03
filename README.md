@@ -29,10 +29,10 @@
 </div>
 <div align="center">
   <a href="https://dev.to/benji377">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=benji377&theme=catppuccin_mocha" />
+    <img height=200 align="center" src="https://benji377-github-readme-stats.vercel.app/api?username=benji377&theme=catppuccin_mocha&show_icons=true&include_all_commits=true" />
   </a>
   <a href="https://dev.to/benji377">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=benji377&layout=compact&langs_count=8&theme=catppuccin_mocha&card_width=320" />
+    <img height=200 align="center" src="https://benji377-github-readme-stats.vercel.app/api/top-langs?username=benji377&layout=compact&langs_count=8&theme=catppuccin_mocha" />
   </a>
 </div>
 

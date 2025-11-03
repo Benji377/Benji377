@@ -17,7 +17,7 @@
   <!-- Second row of badges -->
   <div id="secondary-badges" style="margin-top: 10px;">
     <a href="https://saythanks.io/to/Benji377">
-      <img src="https://img.shields.io/badge/Send%20Love-1EAEDB?style=for-the-badge&logo=smugmug&logoColor=white" alt="Say Thanks Badge"/>
+      <img src="https://img.shields.io/badge/Say%20Thanks-1EAEDB?style=for-the-badge&logo=smugmug&logoColor=white" alt="Say Thanks Badge"/>
     </a>
     <img src="https://komarev.com/ghpvc/?username=benji377&style=for-the-badge&label=Profile%20Views&color=blue" alt="Profile Views Badge"/>
   </div>

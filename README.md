@@ -101,9 +101,9 @@ I am an Automation Engineer (DevOps) from Italy :it:.
 
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenMusic - My first Open source project](https://dev.to/benji377/openmusic-my-first-open-source-project-2kha)
 - [Data2Image - Hide Any File Inside a PNG Image](https://dev.to/benji377/data2image-hide-any-file-inside-a-png-image-2ncm)
 - [Visualize Your WiFi Stability in the Linux Terminal with Wavemon](https://dev.to/benji377/visualize-your-wifi-stability-in-the-linux-terminal-with-wavemon-44hi)
 - [8 Hidden Linux CLI Gems](https://dev.to/benji377/8-hidden-linux-cli-gems-4g1e)
 - [How to export indicators from XSOAR to Splunk](https://dev.to/benji377/how-to-export-indicators-from-xsoar-to-splunk-330k)
-- [How to Build a Portable Offline Chat Server with a Raspberry Pi](https://dev.to/benji377/how-to-build-a-portable-offline-chat-server-with-a-raspberry-pi-156i)
 <!-- BLOG-POST-LIST:END -->

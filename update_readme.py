@@ -8,7 +8,7 @@ posts = json.loads(urllib.request.urlopen(req).read())
 
 # 2. Build Markdown using a list comprehension
 md = "\n" + "\n".join(
-    f"- **[{p['title']}]({p['url']})** <br> <sub>⏱️ {p['reading_time_minutes']} min read | 📅 {datetime.strptime(p['published_at'], '%Y-%m-%dT%H:%M:%SZ').strftime('%b %d, %Y')}</sub>"
+    f"- **[{p['title']}]({p['url']})** <br> <sub> 📅 {datetime.strptime(p['published_at'], '%Y-%m-%dT%H:%M:%SZ').strftime('%b %d, %Y')} | ⏱️ {p['reading_time_minutes']} min read</sub>"
     for p in posts
 ) + "\n"
 

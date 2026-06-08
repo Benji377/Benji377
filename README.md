@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="100" alt="Header GIF"/>
   
   <!-- Badges -->
-  <div id="badges" style="margin-top: 15px;">
+  <div id="badges">
     <a href="https://saythanks.io/to/Benji377">
       <img src="https://img.shields.io/badge/Say%20Thanks-1EAEDB?style=for-the-badge&logo=smugmug&logoColor=white" alt="Say Thanks Badge"/>
     </a>

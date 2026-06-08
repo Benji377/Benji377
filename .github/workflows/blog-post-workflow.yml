@@ -7,13 +7,21 @@ permissions:
   contents: write # To update README
 
 jobs:
-  update-readme-with-blog:
-    name: Update this repos README with latest blog posts
+  update-readme:
+    name: Sync Dev.to Posts
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
+      - name: Checkout repository
         uses: actions/checkout@v6
-      - name: Pull in dev.to posts
-        uses: gautamkrishnar/blog-post-workflow@v1
-        with:
-          feed_list: "https://dev.to/feed/benji377"
+
+      - name: Run sync script
+        run: python3 update_readme.py
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add README.md
+          
+          # Only commit and push if the README actually changed
+          git diff --quiet && git diff --staged --quiet || (git commit -m "bot: sync latest dev.to posts" && git push)

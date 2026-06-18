@@ -21,8 +21,8 @@
 ## About Me:
 I am an Automation Engineer (DevOps) from Italy :it:.
 - I love experimenting with new technologies
-- Currently exploring Golang and Rust
-- In my free time, I blog and explore fresh ideas
+- Currently exploring Android Development with [Timety](https://github.com/Benji377/Timety)
+- In my free time, I blog and explore new ideas
 
 ## Blog Posts:
 

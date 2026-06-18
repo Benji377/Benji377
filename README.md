@@ -7,12 +7,15 @@
       <img src="https://img.shields.io/badge/Say%20Thanks-1EAEDB?style=for-the-badge&logo=smugmug&logoColor=white" alt="Say Thanks Badge"/>
     </a>
     <a href="https://benji377.dev/">
-      <img src="https://img.shields.io/badge/Website-ff2052?style=for-the-badge&logo=deno&logoColor=white" alt="Website Badge"/>
+      <img src="https://img.shields.io/badge/Website-00C853?style=for-the-badge&logo=web-awesome&logoColor=white" alt="Website Badge"/>
+    </a>
+    <a href="mailto:demetzbenjamin@duck.com">
+      <img src="https://img.shields.io/badge/Email-ff2052?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
     </a>
   </div>
 
   <h1>
-    Hey There
+    Hey there
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="Waving Hand GIF"/>
   </h1>
 </div>
